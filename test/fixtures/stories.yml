@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  urlfriendly: MyString
+  title: MyString
+  content: MyText
+  status: MyString
+
+two:
+  urlfriendly: MyString
+  title: MyString
+  content: MyText
+  status: MyString
